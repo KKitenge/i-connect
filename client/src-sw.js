@@ -25,7 +25,7 @@ warmStrategyCache({
 });
 offlineFallback({
   pageFallback: '/index.html'
-})
+});
 
 registerRoute(({ request }) => request.mode === 'navigate', pageCache);
 
