@@ -39,6 +39,9 @@ Open the text editor at the [live site](https://i-connect.herokuapp.com), and en
 
 <br>
 
+## Credits
+Valuable guidance and assistance received from teaching assistant KV, particularly with JSON and src-sw.js files, organization.
+
 ## License
 [MIT](https://opensource.org/license/mit/) License  
 <br>
