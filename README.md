@@ -22,6 +22,7 @@ Progressive web text editor - application that allows users to write  without li
 ## Technology Used
 * [Git](https://git-scm.com/)
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [Heroku](https://www.heroku.com)
 * [Express](https://expressjs.com/)
 * [NodeJS](https://nodejs.org/en)  
 * [webpack](https://webpack.js.org/)  
